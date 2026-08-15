@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="warm_white">#FCFBF8</color>
+    <color name="surface_warm">#F4F2ED</color>
+    <color name="ink">#20201E</color>
+    <color name="ink_muted">#6E6C67</color>
+    <color name="sage">#47685A</color>
+    <color name="sage_light">#DCE9E1</color>
+    <color name="amber">#8B651C</color>
+    <color name="amber_light">#F5E9CD</color>
+    <color name="brick">#A94B42</color>
+    <color name="brick_light">#F7DEDA</color>
+    <color name="outline_soft">#D9D6CF</color>
+</resources>

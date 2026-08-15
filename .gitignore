@@ -1,0 +1,27 @@
+# Gradle and Android Studio
+.gradle/
+.kotlin/
+build/
+**/build/
+.idea/
+*.iml
+local.properties
+
+# Native and generated artifacts
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.dex
+
+# Local logs and diagnostics
+*.log
+*.txt
+
+# Local UI audit exports and source backups
+ui-*.png
+*.before-ui-refinement
+
+# OS files
+.DS_Store
+Thumbs.db
